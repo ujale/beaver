@@ -1,0 +1,9 @@
+{
+    "defaultCommandTimeout": 120000,
+    "pageLoadTimeout": 120000,
+    "ignoreTestFiles": [
+      "*.js",
+      "*.md"
+    ],
+    "testFiles": "**/*.feature"
+  }
